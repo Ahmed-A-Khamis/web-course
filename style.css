@@ -4,9 +4,9 @@ body {
 
 
 #header {
-	color: rgb(80, 5, 120);
+	color: darkblue;
 	text-align: center;
-	font-family: cursive;
+	font-family: Nunito;
 	border: 5px solid #fed000;
 	padding: 1em;
 	margin: 1em;
