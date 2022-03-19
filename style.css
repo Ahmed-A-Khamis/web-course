@@ -2,6 +2,10 @@ body {
 	font-family: sans-serif;
 }
 
+.list{
+	float: left;
+	width: 330px;
+}
 
 #header {
 	color: darkblue;
@@ -16,24 +20,26 @@ body {
 
 .ol1 {
 	display: flex;
+	color: darkred;
+	align-items: flex-start;
 }
 
 
-#google {
+.google {
 	text-align: center;
 	width: 330px;
-	height: 500px;
+	height: 400px;
+	align-items: flex-start;
 	display: flex;
-	align-items: center;
 }
 
 
 #item1 {
-	border-bottom: 3px dashed black;
-	padding: 0.2em;
+	border-bottom: 3px dashed darkred;
 }
 
 
-#fish {
+.fish {
 	float: right;
 	display: flex;
+}
