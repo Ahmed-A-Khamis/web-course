@@ -2,12 +2,14 @@ body {
 	font-family: sans-serif;
 }
 
+
 .list{
 	display: flex;
 	flex-wrap: wrap;
 	float: left;
 	width: 42%;
 }
+
 
 #header {
 	width: 93%;
