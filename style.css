@@ -24,6 +24,26 @@ body {
 	font-variant: small-caps;
 }
 
+.container{
+	display: flex;
+	flex-direction: column;
+}
+
+.box{
+	border: 3px solid brown;
+}
+
+#one{
+	order: 1;
+}
+
+#two{
+	order: 2;
+}
+
+#three{
+	order: 3;
+}
 
 .ol1 {
 	display: flex;
